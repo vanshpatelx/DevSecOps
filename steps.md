@@ -1,5 +1,5 @@
 # Amazon Prime Clone Deployment Project
-![Pipeline Overview](./src/Overview.png)
+![Pipeline Overview](https://github.com/vanshpatelx/DevSecOps/blob/main/src/overview.png)
 
 ## Configuration
 ### AWS Setup
