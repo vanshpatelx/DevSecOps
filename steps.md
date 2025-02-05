@@ -1,6 +1,3 @@
-# Amazon Prime Clone Deployment Project
-![Pipeline Overview](https://github.com/vanshpatelx/DevSecOps/blob/main/src/overview.png)
-
 ## Configuration
 ### AWS Setup
 1. **IAM User**: Create an IAM user and generate the access and secret keys to configure your machine with AWS.
